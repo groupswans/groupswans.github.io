@@ -269,3 +269,9 @@ footer a:not(.nav-link) {
 .entry-title a {
   text-decoration: none;
 }
+
+.gallery img {
+  width: 100%;
+  margin-bottom: 30px;
+  box-shadow: 0px 0px 2px #888888;
+}
